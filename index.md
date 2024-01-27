@@ -1,1 +1,3 @@
-# Hello, I'm Ibtisam Afzal
+# Hello, I'm Learning Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
